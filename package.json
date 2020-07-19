@@ -1,0 +1,12 @@
+{
+    "name": "number-to-word-converter",
+    "version": "1.0.0",
+    "description": "Numbers to Words",
+    "main": "index.js",
+    "repository": "https://github.com/elvirai/interview91.git",
+    "author": "Elvira Ismagilova<elvira.ismagilova@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
